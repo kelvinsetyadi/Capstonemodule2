@@ -54,7 +54,7 @@ Dataset yang digunakan adalah *Cleaned SaaS Sales Data* yang berisi informasi se
 
 ---
 
-## 🛠 Tools & Teknologi
+## Tools & Teknologi
 - **Tableau Public**
 - **GitHub** untuk dokumentasi & versioning
 
